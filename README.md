@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yummCat
-- 👀 I’m interested in ... getting started on "proper" coding projects!
-- 🌱 I’m currently learning ... web design and running simulations on stuff like - JS, HTML, CSS, P5JS and Python!
+- 👀 I’m interested in ... getting started on coding projects!
+- 🌱 I’m currently learning ... running simulations on stuff and electronics!
 - 💞️ I’m looking to collaborate on ... above mentioned projects!
 - 😄 Pronouns: ... she/her!
 - ⚡ Fun fact: ... When I grow up, I aspire to be a happy little tree!
